@@ -1,0 +1,21 @@
+{
+  "short_name": "StrixOS",
+  "name": "StrixOS Avian Management",
+  "icons": [
+    {
+      "src": "/logo192.png?v=3",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/logo512.png?v=3",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "display": "standalone",
+  "orientation": "any"
+}
